@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bshauck
+- 👋 Hi, I’m Bill Shauck.
 - 👀 I’m interested in object-oriented approaches.
 - 🌱 I’m currently learning Google APIS like Map and OAuth.
 - 💞️ I’m looking to collaborate on pairing on any Python or React project.
