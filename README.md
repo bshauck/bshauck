@@ -29,7 +29,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshauck)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=bshauck&show_icons=true&locale=en" alt="stats"/>
+[//]: # (I commented the below because the grade was "B")
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=bshauck&show_icons=true&locale=en" alt="stats"/>)
 
 ### ⚙️ Tools and Technologies:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
