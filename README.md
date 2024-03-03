@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/bill-shauck">My Linkedin</a> | <a href="https://bshauck.github.io/">My Portfolio</a> | <a href="mailto:williamrshauck@gmail.com">williamrshauck@gmail.com</a>
 
 ### 📊 An Overview of my Github Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sophiatsau&" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bshauck&" alt="streak"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bshauck)](https://github.com/anuraghazra/github-readme-stats)
 
